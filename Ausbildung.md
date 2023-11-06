@@ -4,7 +4,55 @@
 
 <div class="page"/>
 
-## Mai. 2018 - Heute
+## Nov. 2023
+
+_Sitecore Learning_
+\- [Sitecore Learning - Content Hub)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog)
+
+### Sitecore Content Hub Developer Certification
+
+> Berufsbegleitend (Selbststudium)
+\- [Zertifikat](./docs/Zertifikate/1127_3_24144_1698922808_LearningSitecore%20Certification.pdf)
+
+---
+
+## Juli 2022
+
+_MongoDB_
+\- [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
+
+### MongoDB Associate Developer
+
+> Berufsbegleitend (Selbststudium)
+\- [Zertifikat](./docs/Zertifikate/MongoDBCertificate_A4.pdf)
+
+---
+
+## Dez. 2019
+
+_Sitecore Learning_
+\- [Sitecore Learning - Sitecore Experience Platform/Experience Manager (XP/XM)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/xm-xp-courses?utm_websource=knowledge-center.getting-started.training.catalog)
+
+### Sitecore® Experience Solution Developer Certification Exam 9
+
+> Berufsbegleitend (Selbststudium)
+\- [Zertifikat](./docs/Zertifikate/705_3_24144_1671030787_LearningSitecore%20Certification.pdf)
+
+---
+
+## Sept 2019
+
+_Scrum.org_
+\- [scrum.org](https://www.scrum.org/)
+
+### Professional Scrum Master I (PSM I)
+
+> Berufsbegleitend (Selbststudium)
+\- [Zertifikat](./docs/Zertifikate/Professional%20Scrum%20Master%20I.pdf)
+
+---
+
+## Mai. 2019
 
 _Microsoft Academy_  
 \- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/)
@@ -12,7 +60,7 @@ _Microsoft Academy_
 ### Microsoft Professional Program for Front-End Web Development
 
 > Berufsbegleitend (Selbststudium)
-\- [Zertifikat](https://academy.microsoft.com/en-us/certificates/76850af4-2a55-4c80-970a-db43eeff7867)
+\- [Zertifikat](./docs/Zertifikate/Microsoft_FrontEnd_Certificate.pdf)
 
 ---
 
