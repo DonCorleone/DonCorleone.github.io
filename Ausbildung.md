@@ -9,7 +9,7 @@
 _Sitecore Learning_
 \- [Sitecore Learning - Content Hub](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog)
 
-### Sitecore Content Hub Developer Certification
+### Sitecore® Content Hub Developer Certification
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/1127_3_24144_1698922808_LearningSitecore%20Certification.pdf)
@@ -21,7 +21,7 @@ _Sitecore Learning_
 _MongoDB_
 \- [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
 
-### MongoDB Associate Developer
+### MongoDB® Associate Developer
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/MongoDBCertificate_A4.pdf)
@@ -57,7 +57,7 @@ _Scrum.org_
 _Microsoft Academy_  
 \- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/)
 
-### Microsoft Professional Program for Front-End Web Development
+### Microsoft® Professional Program for Front-End Web Development
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/Microsoft_FrontEnd_Certificate.pdf)
