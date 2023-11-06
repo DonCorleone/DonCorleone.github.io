@@ -4,10 +4,10 @@
 
 <div class="page"/>
 
-## Nov. 2023
+## November 2023
 
 _Sitecore Learning_
-\- [Sitecore Learning - Content Hub)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog)
+\- [Sitecore Learning - Content Hub](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog)
 
 ### Sitecore Content Hub Developer Certification
 
@@ -28,7 +28,7 @@ _MongoDB_
 
 ---
 
-## Dez. 2019
+## Dezember 2019
 
 _Sitecore Learning_
 \- [Sitecore Learning - Sitecore Experience Platform/Experience Manager (XP/XM)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/xm-xp-courses?utm_websource=knowledge-center.getting-started.training.catalog)
@@ -40,7 +40,7 @@ _Sitecore Learning_
 
 ---
 
-## Sept 2019
+## September 2019
 
 _Scrum.org_
 \- [scrum.org](https://www.scrum.org/)
@@ -52,7 +52,7 @@ _Scrum.org_
 
 ---
 
-## Mai. 2019
+## Mai 2019
 
 _Microsoft Academy_  
 \- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/)
@@ -64,7 +64,7 @@ _Microsoft Academy_
 
 ---
 
-## Mai. 2018 - Dez. 2018
+## Mai 2018 - Dezember 2018
 
 _W3Cx_  
 \- [w3cx.org](https://w3cx.org/)
@@ -77,7 +77,7 @@ _W3Cx_
 
 ---
 
-## Sept. 2009 - Mai 2014
+## September 2009 - Mai 2014
 
 _Hochschule für Technik und Architektur Luzern, Horw_  
 \- [www.hslu.ch/technik-architektur/](https://www.hslu.ch/de-ch/technik-architektur/)
@@ -90,7 +90,7 @@ _Hochschule für Technik und Architektur Luzern, Horw_
 
 ---
 
-## Jan. 2009 - März 2009
+## Januar 2009 - März 2009
 
 _Microsoft learning_  
 \- [www.microsoft.com/learning/](https://www.microsoft.com/de-ch/learning/)
@@ -102,7 +102,7 @@ _Microsoft learning_
 
 ---
 
-## Sept. 1999 - Aug. 2002
+## September 1999 - August 2002
 
 _Hochschule für Wirtschaft, Luzern_  
 \- [www.hslu.ch/wirtschaft/](https://www.hslu.ch/de-ch/wirtschaft/)
@@ -115,7 +115,7 @@ _Hochschule für Wirtschaft, Luzern_
 
 ---
 
-## Okt. 1997 - Mai 1998
+## Oktober 1997 - Mai 1998
 
 _Hochschule für Technik und Wirtschaft, Chur_  
 \- [www.htwchur.ch](http://www.htwchur.ch/)
@@ -127,7 +127,7 @@ _Hochschule für Technik und Wirtschaft, Chur_
 
 ---
 
-## Aug. 1993 - Juli 1997
+## August 1993 - Juli 1997
 
 _Erich Wolf, Dipl. Arch ETH/SIA, Lenzerheide_  
 \- [www.w4arch.ch](http://www.w4arch.ch/)
