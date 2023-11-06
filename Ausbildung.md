@@ -40,7 +40,7 @@ _Sitecore Learning_
 
 ---
 
-## September 2019
+##September 2019
 
 _Scrum.org_
 \- [scrum.org](https://www.scrum.org/)
