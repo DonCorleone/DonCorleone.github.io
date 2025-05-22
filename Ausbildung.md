@@ -69,7 +69,7 @@ _Scrum.org_
 _Microsoft Academy_  
 \- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/)
 
-### Microsoft® Professional Program for Front-End Web Development
+## Microsoft® Professional Program for Front-End Web Development
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/Microsoft_FrontEnd_Certificate.pdf)
