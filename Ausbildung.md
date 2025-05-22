@@ -4,7 +4,7 @@
 
 <div class="page"/>
 
-### Dez. 2024
+###### Dez. 2024
 
 _Scrum.org_
 \- [scrum.org](https://www.scrum.org/){:target="_blank"}
@@ -16,7 +16,7 @@ _Scrum.org_
 
 ---
 
-### Nov. 2023
+###### Nov. 2023
 
 _Sitecore Learning_
 \- [Sitecore Learning - Content Hub](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog){:target="_blank"}
@@ -28,7 +28,7 @@ _Sitecore Learning_
 
 ---
 
-### Jul. 2022
+###### Jul. 2022
 
 _MongoDB_
 \- [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam){:target="_blank"}
@@ -40,7 +40,7 @@ _MongoDB_
 
 ---
 
-### Dez. 2019
+###### Dez. 2019
 
 _Sitecore Learning_
 \- [Sitecore Learning - Sitecore Experience Platform/Experience Manager (XP/XM)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/xm-xp-courses?utm_websource=knowledge-center.getting-started.training.catalog){:target="_blank"}
@@ -52,7 +52,7 @@ _Sitecore Learning_
 
 ---
 
-### Sept. 2019
+###### Sept. 2019
 
 _Scrum.org_
 \- [scrum.org](https://www.scrum.org/)
@@ -64,7 +64,7 @@ _Scrum.org_
 
 ---
 
-### Mai 2019
+###### Mai 2019
 
 _Microsoft Academy_  
 \- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/){:target="_blank"}
@@ -76,7 +76,7 @@ _Microsoft Academy_
 
 ---
 
-### Mai 2018 - Dez. 2018
+###### Mai 2018 - Dez. 2018
 
 _W3Cx_  
 \- [w3cx.org](https://w3cx.org/){:target="_blank"}
@@ -89,7 +89,7 @@ _W3Cx_
 
 ---
 
-### Sept. 2009 - Mai 2014
+###### Sept. 2009 - Mai 2014
 
 _Hochschule für Technik und Architektur Luzern, Horw_  
 \- [www.hslu.ch/technik-architektur/](https://www.hslu.ch/de-ch/technik-architektur/){:target="_blank"}
@@ -102,7 +102,7 @@ _Hochschule für Technik und Architektur Luzern, Horw_
 
 ---
 
-### Jan. 2009 - März 2009
+###### Jan. 2009 - März 2009
 
 _Microsoft learning_  
 \- [www.microsoft.com/learning/](https://www.microsoft.com/de-ch/learning/){:target="_blank"}
@@ -114,7 +114,7 @@ _Microsoft learning_
 
 ---
 
-### Sept. 1999 - Aug. 2002
+###### Sept. 1999 - Aug. 2002
 
 _Hochschule für Wirtschaft, Luzern_  
 \- [www.hslu.ch/wirtschaft/](https://www.hslu.ch/de-ch/wirtschaft/){:target="_blank"}
@@ -127,7 +127,7 @@ _Hochschule für Wirtschaft, Luzern_
 
 ---
 
-### Okt. 1997 - Mai 1998
+###### Okt. 1997 - Mai 1998
 
 _Hochschule für Technik und Wirtschaft, Chur_  
 \- [www.htwchur.ch](http://www.htwchur.ch/){:target="_blank"}
@@ -139,7 +139,7 @@ _Hochschule für Technik und Wirtschaft, Chur_
 
 ---
 
-### Aug. 1993 - Jul. 1997
+###### Aug. 1993 - Jul. 1997
 
 _Erich Wolf, Dipl. Arch ETH/SIA, Lenzerheide_  
 \- [www.w4arch.ch](http://www.w4arch.ch/){:target="_blank"}

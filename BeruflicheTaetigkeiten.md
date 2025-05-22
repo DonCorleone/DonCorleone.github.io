@@ -4,7 +4,7 @@
 
 <div class="page"/>
 
-### Feb. 2024 - Heute
+###### Feb. 2024 - Heute
 
 > _Suva, Luzern_  
 \- [_www.suva.ch_](https://www.suva.ch){:target="_blank"}
@@ -16,7 +16,7 @@
 
 ---
 
-### Jan. 2024 - Heute
+###### Jan. 2024 - Heute
 
 > _Suva, Luzern_  
 \- [_www.suva.ch_](https://www.suva.ch){:target="_blank"}
@@ -29,7 +29,7 @@
 
 ---
 
-### Jun. 2019 - Heute
+###### Jun. 2019 - Heute
 
 > _Suva, Luzern_  
 \- [_www.suva.ch_](https://www.suva.ch){:target="_blank"}
@@ -45,7 +45,7 @@
 
 &nbsp;
 
-### Nov. 2016 - Mai 2019
+###### Nov. 2016 - Mai 2019
 
 > _W&W Immo Informatik AG, Affoltern am Albis_  
 \- [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html){:target="_blank"}
@@ -61,7 +61,7 @@
 
 &nbsp;
 
-### Nov. 2011 - Okt. 2016
+###### Nov. 2011 - Okt. 2016
 
 > _Bambus Software GmbH, Kriens_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}  
@@ -86,7 +86,7 @@
 
 &nbsp;
 
-### Dez. 2010 - Okt. 2011
+###### Dez. 2010 - Okt. 2011
 
 > _Sientia AG, Dübendorf_  
 \- [_www.scayla.com_](http://www.scayla.com){:target="_blank"}  
@@ -112,7 +112,7 @@
 
 &nbsp;
 
-### Nov. 2005 - Nov. 2010
+###### Nov. 2005 - Nov. 2010
 
 > _BBT Software AG, Root_  
 \- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/){:target="_blank"}  
@@ -131,7 +131,7 @@ und Unfallversicherungen "BBT Enterprises"
 
 &nbsp;
 
-### Sept. 2002 - Okt. 2005
+###### Sept. 2002 - Okt. 2005
 
 > _Bambus Software GmbH, Ebikon_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}  
@@ -171,7 +171,7 @@ und Unfallversicherungen "BBT Enterprises"
 
 &nbsp;
 
-### Mai 2002 - Jul. 2002
+###### Mai 2002 - Jul. 2002
 
 > _IDC AG, Sarnen (Ehemals Luzern)_  
 \- [_www.idc.ch_](http://www.idc.ch/){:target="_blank"}

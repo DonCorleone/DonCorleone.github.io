@@ -4,7 +4,7 @@
 
 <div class="page"/>
 
-### Feb. 2024 - Heute
+###### Feb. 2024 - Heute
 
 > _Entwicklung (Design eingekauft bei [hibootstrap](https://hibootstrap.com/){:target="_blank"})_   
 \- [streetsurfclub.ch](https://streetsurfclub.ch){:target="_blank"}
@@ -17,7 +17,7 @@
 |Frontend| Angular 19, Tailwind CSS - hosted auf [Netlify](https://www.netlify.com/){:target="_blank"} |
 |Backend | [Google Blogger](https://www.blogger.com/){:target="_blank"}|
 
-### Jun. 2023 - Heute
+###### Jun. 2023 - Heute
 
 > _Entwicklung_   
 
@@ -29,7 +29,7 @@
 |Scripting| Python |
 |Backend | Mail / SMS Provider [Postmark](https://postmarkapp.com){:target="_blank"}|
 
-### Jul. 2022 - Heute
+###### Jul. 2022 - Heute
 
 > _Design & Entwicklung_   
 \- [laundry-calendar.netlify.app](https://laundry-calendar.netlify.app){:target="_blank"}
@@ -44,7 +44,7 @@
 |Backend | .Net Core mit Signal R - hosted via Docker auf [Render](https://render.com/){:target="_blank"}|
 |DB | Redis - hosted auf [Render](https://render.com/){:target="_blank"}|
 
-### Okt. 2020 - Heute
+###### Okt. 2020 - Heute
 
 > _Design & Entwicklung_    
 \- [up.schlosswochen.ch](https://up.schlosswochen.ch/){:target="_blank"}
@@ -60,7 +60,7 @@
 |Mail / SMS Provider | [Postmark](https://postmarkapp.com)|
 
 
-### Okt. 2019 - Heute
+###### Okt. 2019 - Heute
 
 > _Design & Entwicklung_    
 \- [schlosswochen.ch](https://www.schlosswochen.ch/){:target="_blank"}
@@ -74,7 +74,7 @@
 |Backend | Markdown- Files - hosted auf [Github](https://github.com){:target="_blank"} |
 |DB | MongoDB - hosted auf MongoDB Atlas [mongodb](https://www.mongodb.com)|
 
-### Okt. 2019 - Heute
+###### Okt. 2019 - Heute
 
 > _Entwicklung (Design gekauft bei [3rdwavemedia](https://themes.3rdwavemedia.com){:target="_blank"})_   
 \- [petruschka.ch](https://www.petruschka.ch/){:target="_blank"}
