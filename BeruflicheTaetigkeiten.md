@@ -11,7 +11,7 @@
 
 ## Praxisbildner Applikationsentwickler
 
-> Praxisbildner eines Lernenden der Fachrichting 'Applikationsentwicklung'.  
+> Praxisbildner eines Lernenden der Fachrichtung 'Applikationsentwicklung'.  
 \- [_ict-berufsbildung.ch_](https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/informatiker-in-efz){:target="_blank"}
 
 ---

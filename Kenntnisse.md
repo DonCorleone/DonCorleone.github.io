@@ -7,7 +7,7 @@
 
 ## Webtechnologien Professionell
 
-| Anwendungsgbiet | Technologie   |
+| Anwendungsgebiet | Technologie   |
 |-------------------|--------------------------|
 | Template Syntax | HTML, Angular |
 | CSS Frameworks | SCSS, Bootstrap, Tailwind, Angular Material |
@@ -15,13 +15,13 @@
 
 ## DevOps
 
-| Anwendungsgbiet | Technologie   |
+| Anwendungsgebiet | Technologie   |
 |-------------------|--------------------------|
 | Middleware | Kafka |
 | CI / CD | Jenkins, Tekton, Octopus Deploy |
 | Containerisation | Openshift, Docker |
 | Testing | Cypress, Storybook |
-| Source Code Management | Git, GitHub, Bitbuket |
+| Source Code Management | Git, GitHub, Bitbucket |
 
 
 ## Betriebssysteme

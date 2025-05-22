@@ -6,7 +6,7 @@
 
 ### Feb. 2024 - Heute
 
-> _Entwicklung (Desing eingekauft bei [hibootstrap](https://hibootstrap.com/))_   
+> _Entwicklung (Design eingekauft bei [hibootstrap](https://hibootstrap.com/))_   
 \- [streetsurfclub.ch](https://streetsurfclub.ch){:target="_blank"}
 
 ## Vereinswebsite StreetSurfClub Luzern
@@ -21,7 +21,7 @@
 
 > _Entwicklung_   
 
-## Campagn Mailer
+## Campaign Mailer
 > Massenmail- Versand für Newsletter- Subscriber via CSV Import in Python
 
 |Einsatz|Technologie|
