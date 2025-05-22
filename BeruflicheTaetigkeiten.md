@@ -17,7 +17,7 @@
 ### Jan. 2024 - Heute
 
 > _Suva, Luzern_  
-\- [_www.suva.ch_](https://www.suva.ch)
+\- [_www.suva.ch_](https://www.suva.ch){:target="_blank"}
 
 ## Product Owner Designsystem
 
@@ -118,8 +118,8 @@
 
 > Neuentwicklung Branchensoftware für Krankenkassen „BBT Individual"
 und Unfallversicherungen "BBT Enterprises"  
-\- [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html){:target="_blank"}  
-\- [Produktseite "BBT Enterprise"](http://www.bbtsoftware.ch/unfall-versicherung.html){:target="_blank"}
+\- [Produktseite "BBT Individual"](https://bbtsoftware.ch/angebot/krankenversicherer/){:target="_blank"}  
+\- [Produktseite "BBT Enterprise"](https://bbtsoftware.ch/angebot/unfall-und-krankentaggeldversicherer/){:target="_blank"}
 
 | Frontend      | Backend                                        | Database   |
 |---------------|------------------------------------------------|------------|
@@ -143,8 +143,7 @@ und Unfallversicherungen "BBT Enterprises"
 
 ## Backend- Applikationsentwickler
 
-> Neuentwicklung Online Prämienrechner "CarePlus Web" für Krankenkassen  
-\- [Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx){:target="_blank"}
+> Neuentwicklung Online Prämienrechner "CarePlus Web" für diverse Krankenkassen  
 
 | Frontend | Backend                                              | Database   |
 |----------|------------------------------------------------------|------------|
