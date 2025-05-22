@@ -6,7 +6,7 @@
 
 ### Feb. 2024 - Heute
 
-> _Entwicklung (Design eingekauft bei [hibootstrap](https://hibootstrap.com/))_   
+> _Entwicklung (Design eingekauft bei [hibootstrap](https://hibootstrap.com/){:target="_blank"})_   
 \- [streetsurfclub.ch](https://streetsurfclub.ch){:target="_blank"}
 
 ## Vereinswebsite StreetSurfClub Luzern
@@ -14,8 +14,8 @@
 
 |Einsatz|Technologie|
 |-------|-----------|
-|Frontend| Angular 19, Tailwind CSS - hosted auf [Netlify](https://www.netlify.com/) |
-|Backend | [Google Blogger](https://www.blogger.com/)|
+|Frontend| Angular 19, Tailwind CSS - hosted auf [Netlify](https://www.netlify.com/){:target="_blank"} |
+|Backend | [Google Blogger](https://www.blogger.com/){:target="_blank"}|
 
 ### Jun. 2023 - Heute
 
@@ -27,7 +27,7 @@
 |Einsatz|Technologie|
 |-------|-----------|
 |Scripting| Python |
-|Backend | Mail / SMS Provider [Postmark](https://postmarkapp.com)|
+|Backend | Mail / SMS Provider [Postmark](https://postmarkapp.com){:target="_blank"}|
 
 ### Jul. 2022 - Heute
 
@@ -41,8 +41,8 @@
 |-------|-----------|
 |Frontend| Angular 19, Tailwind CSS, Angular Material - hosted auf [Netlify](https://www.netlify.com/) |
 |Auth| Netlify Identity |
-|Backend | .Net Core mit Signal R - hosted via Docker auf [Render](https://render.com/)|
-|DB | Redis - hosted auf [Render](https://render.com/)|
+|Backend | .Net Core mit Signal R - hosted via Docker auf [Render](https://render.com/){:target="_blank"}|
+|DB | Redis - hosted auf [Render](https://render.com/){:target="_blank"}|
 
 ### Okt. 2020 - Heute
 
@@ -71,12 +71,12 @@
 |Einsatz|Technologie|
 |-------|-----------|
 |Frontend| Angular 19, Tailwind CSS, Angular Material - hosted auf [Netlify](https://www.netlify.com/) |
-|Backend | Markdown- Files - hosted auf [Github](https://github.com) |
+|Backend | Markdown- Files - hosted auf [Github](https://github.com){:target="_blank"} |
 |DB | MongoDB - hosted auf MongoDB Atlas [mongodb](https://www.mongodb.com)|
 
 ### Okt. 2019 - Heute
 
-> _Entwicklung (Design gekauft bei [3rdwavemedia](https://themes.3rdwavemedia.com))_   
+> _Entwicklung (Design gekauft bei [3rdwavemedia](https://themes.3rdwavemedia.com){:target="_blank"})_   
 \- [petruschka.ch](https://www.petruschka.ch/){:target="_blank"}
 
 ## Website Figurentheater 'Petruschka' Luzern

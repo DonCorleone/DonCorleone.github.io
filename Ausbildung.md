@@ -19,7 +19,7 @@ _Scrum.org_
 ### Nov. 2023
 
 _Sitecore Learning_
-\- [Sitecore Learning - Content Hub](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog)
+\- [Sitecore Learning - Content Hub](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog){:target="_blank"}
 
 ## Sitecore® Content Hub Developer Certification
 
@@ -31,7 +31,7 @@ _Sitecore Learning_
 ### Jul. 2022
 
 _MongoDB_
-\- [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
+\- [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam){:target="_blank"}
 
 ## MongoDB® Associate Developer
 
@@ -43,7 +43,7 @@ _MongoDB_
 ### Dez. 2019
 
 _Sitecore Learning_
-\- [Sitecore Learning - Sitecore Experience Platform/Experience Manager (XP/XM)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/xm-xp-courses?utm_websource=knowledge-center.getting-started.training.catalog)
+\- [Sitecore Learning - Sitecore Experience Platform/Experience Manager (XP/XM)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/xm-xp-courses?utm_websource=knowledge-center.getting-started.training.catalog){:target="_blank"}
 
 ## Sitecore® Experience Solution Developer Certification Exam 9
 
@@ -67,7 +67,7 @@ _Scrum.org_
 ### Mai 2019
 
 _Microsoft Academy_  
-\- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/)
+\- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/){:target="_blank"}
 
 ## Microsoft® Professional Program for Front-End Web Development
 
@@ -79,13 +79,13 @@ _Microsoft Academy_
 ### Mai 2018 - Dez. 2018
 
 _W3Cx_  
-\- [w3cx.org](https://w3cx.org/)
+\- [w3cx.org](https://w3cx.org/){:target="_blank"}
 
 ## Front-End Web Developer
 
 > Berufsbegleitend (Selbststudium)  
-\- [Zertifikat](https://credentials.edx.org/credentials/05367abed4fb4be984a24ede62936b33/)  
-\- [Zeugnisse](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361)  
+\- [Zertifikat](https://credentials.edx.org/credentials/05367abed4fb4be984a24ede62936b33/){:target="_blank"}  
+\- [Zeugnisse](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361){:target="_blank"}  
 
 ---
 
@@ -105,7 +105,7 @@ _Hochschule für Technik und Architektur Luzern, Horw_
 ### Jan. 2009 - März 2009
 
 _Microsoft learning_  
-\- [www.microsoft.com/learning/](https://www.microsoft.com/de-ch/learning/)
+\- [www.microsoft.com/learning/](https://www.microsoft.com/de-ch/learning/){:target="_blank"}
 
 ## MCTS .NET 2.0 Windows Applications
 
@@ -130,7 +130,7 @@ _Hochschule für Wirtschaft, Luzern_
 ### Okt. 1997 - Mai 1998
 
 _Hochschule für Technik und Wirtschaft, Chur_  
-\- [www.htwchur.ch](http://www.htwchur.ch/)
+\- [www.htwchur.ch](http://www.htwchur.ch/){:target="_blank"}
 
 ## Technische Berufsmaturität
 
@@ -142,7 +142,7 @@ _Hochschule für Technik und Wirtschaft, Chur_
 ### Aug. 1993 - Jul. 1997
 
 _Erich Wolf, Dipl. Arch ETH/SIA, Lenzerheide_  
-\- [www.w4arch.ch](http://www.w4arch.ch/)
+\- [www.w4arch.ch](http://www.w4arch.ch/){:target="_blank"}
 
 ## Eidg. Dipl. Hochbauzeichner
 
