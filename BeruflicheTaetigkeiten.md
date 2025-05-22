@@ -7,7 +7,7 @@
 ### Feb. 2024 - Heute
 
 > _Suva, Luzern_  
-\- [_www.suva.ch_](https://www.suva.ch)
+\- [_www.suva.ch_](https://www.suva.ch){:target="_blank"}
 
 ## Praxisbildner Applikationsentwickler
 
