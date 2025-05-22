@@ -4,7 +4,7 @@
 
 <div class="page"/>
 
-## Familie
+### Familie
 
 Geburtsdatum:
 > 06.09.1977 (In Zürich)
@@ -20,7 +20,7 @@ Kinder:
 Neva Sejima Alÿs (\*2015)
 
 
-## Verbindungsdaten
+### Verbindungsdaten
 
 Wohnsitz:
 > 6004 Luzern
@@ -28,7 +28,7 @@ Wohnsitz:
 eMail:
 > [linus@wieland.lu](mailto:linus@wieland.lu)
 
-## Interessen
+### Interessen
 
 * Architektur
 * Design
@@ -38,7 +38,7 @@ eMail:
 * Politik
 * Makroökonomie
 
-## Sport
+### Sport
 
 * Snowboard-Touren
 * Snowboarden
