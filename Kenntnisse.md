@@ -35,35 +35,35 @@
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse  |
 |----------------------|-----------------|---------------------|
-| C#                   | JavaScript      | Flex (Actionscript) |
-| VB.NET               | TypeScript      | Delphi (Pascal)     |
-|                      | Java            |                     |
-|                      | VBA             |                     |
+| C#                   | TypeScript      | Flex (Actionscript) |
+| VB.NET               | Python          | Delphi (Pascal)     |
+| JavaScript           | Java            |                     |
+|                      | Powershell             |                     |
 
 ## Frontend- Frameworks
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
-| WinForms (.NET)      | Angular 2+      | React              |
+| WinForms (.NET)      |       | React              |
 | WPF (.NET)           |                 | Vue                |
-|                      |                 | Flex (Adobe Flash) |
+| Angular                     |                 | Flex (Adobe Flash) |
 |                      |                 | GWT (Java)         |
 
 ## Backend- Frameworks
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
-| .NET                 | .NET Core MVC   | Rails              |
-| .NET Core            |                 | Hibernate (Java)   |
+| .NET Framework                | .NET Core MVC   | Rails              |
+| .NET (Core)            | Python                | Hibernate (Java)   |
 
 ## DB-Systeme
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
 | MS SQL Server        | MySQL / MariaDB | Filemaker Pro      |
-| Sybase SQL Anywhere  | Postgresql      |                    |
+| Postgresql      |       Sybase SQL Anywhere             |
 | Microsoft Access     | SQLite          |                    |
-| MongoDB (NoSQL)      |                 |                    |
+| MongoDB (NoSQL)      |         Redis        |                    |
 
 ## CAD / Layout / Publishing
 
