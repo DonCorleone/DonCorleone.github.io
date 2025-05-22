@@ -13,6 +13,7 @@
 
 > Praxisbildner eines Lernenden der Fachrichting 'Applikationsentwicklung'.  
 \- [_ict-berufsbildung.ch_](https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/informatiker-in-efz)
+
 ## Jan. 2024 - Heute
 
 > _Suva, Luzern_  
