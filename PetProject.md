@@ -4,6 +4,47 @@
 
 <div class="page"/>
 
+### Feb. 2024 - Heute
+
+> _Entwicklung (Desing eingekauft bei [hibootstrap](https://hibootstrap.com/))_   
+\- [https://streetsurfclub.ch/](https://laundry-calendar.netlify.app){:target="_blank"}
+
+## Vereinswebsite StreetSurfClub Luzern
+> Bereitstellen eines zeitgenössischen Headless Frontends mit Darkmode und 'Mobile First' - Ansatz für [Google Blogger](https://www.blogger.com/) 
+
+|Einsatz|Technologie|
+|-------|-----------|
+|Frontend| Angular 19, Tailwind CSS - hosted auf [Netlify](https://www.netlify.com/) |
+|Backend | [Google Blogger](https://www.blogger.com/)|
+
+### Jul. 2022 - Heute
+
+> _Design & Entwicklung_   
+\- [laundry-calendar.netlify.app](https://laundry-calendar.netlify.app){:target="_blank"}
+
+## Waschküchen- Verwaltung Laundry-Calendar
+> Teilen von knappen Ressourcen (zB. Haushaltgeräte im Mehrfamilienhaus) mit 'Mobile First' - Ansatz
+
+|Einsatz|Technologie|
+|-------|-----------|
+|Frontend| Angular 19, Tailwind CSS, Angular Material - hosted auf [Netlify](https://www.netlify.com/) |
+|Auth| Netlify Identity |
+|Backend | .Net Core mit Signal R - hosted via Docker auf [Render](https://render.com/)|
+|DB | Redis - hosted auf [Render](https://render.com/)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Feb. 2017 - Heute
 
 ### Design & Entwicklung Webapplikation
