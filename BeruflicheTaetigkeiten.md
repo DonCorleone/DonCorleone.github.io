@@ -28,7 +28,7 @@
 ### Fullstack- Applikationsentwickler
 
 > Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
-\- [Produktseite "ImmoTop II"](https://www.wwimmo.ch/produkte/immotop2.html)
+\- [Produktseite "ImmoTop II"](https://www.wwimmo.ch/produkte/immotop2/)
 
 | Frontend                  | Backend                                                 | Database         |
 |---------------------------|---------------------------------------------------------|------------------|
