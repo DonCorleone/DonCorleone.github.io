@@ -4,55 +4,67 @@
 
 <div class="page"/>
 
-## November 2023
+### Dez. 2024
+
+_Scrum.org_
+\- [scrum.org](https://www.scrum.org/)
+
+## Professional Scrum Product Owner™ I (PSPO I)
+
+> Berufsbegleitend (Selbststudium)
+\- [Zertifikat](./docs/Zertifikate/Professional%20Scrum%20Product%20Owner%20I.pdf)
+
+---
+
+### Nov. 2023
 
 _Sitecore Learning_
 \- [Sitecore Learning - Content Hub](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/content-hub-courses?utm_websource=knowledge-center.getting-started.training.catalog)
 
-### Sitecore® Content Hub Developer Certification
+## Sitecore® Content Hub Developer Certification
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/1127_3_24144_1698922808_LearningSitecore%20Certification.pdf)
 
 ---
 
-## Juli 2022
+### Jul. 2022
 
 _MongoDB_
 \- [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
 
-### MongoDB® Associate Developer
+## MongoDB® Associate Developer
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/MongoDBCertificate_A4.pdf)
 
 ---
 
-## Dezember 2019
+### Dez. 2019
 
 _Sitecore Learning_
 \- [Sitecore Learning - Sitecore Experience Platform/Experience Manager (XP/XM)](https://www.sitecore.com/knowledge-center/getting-started/training/catalog/xm-xp-courses?utm_websource=knowledge-center.getting-started.training.catalog)
 
-### Sitecore® Experience Solution Developer Certification Exam 9
+## Sitecore® Experience Solution Developer Certification Exam 9
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/705_3_24144_1671030787_LearningSitecore%20Certification.pdf)
 
 ---
 
-## September 2019
+### Sept. 2019
 
 _Scrum.org_
 \- [scrum.org](https://www.scrum.org/)
 
-### Professional Scrum Master I (PSM I)
+## Professional Scrum Master I (PSM I)
 
 > Berufsbegleitend (Selbststudium)
 \- [Zertifikat](./docs/Zertifikate/Professional%20Scrum%20Master%20I.pdf)
 
 ---
 
-## Mai 2019
+### Mai 2019
 
 _Microsoft Academy_  
 \- [academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/)
@@ -64,12 +76,12 @@ _Microsoft Academy_
 
 ---
 
-## Mai 2018 - Dezember 2018
+### Mai 2018 - Dez. 2018
 
 _W3Cx_  
 \- [w3cx.org](https://w3cx.org/)
 
-### Front-End Web Developer
+## Front-End Web Developer
 
 > Berufsbegleitend (Selbststudium)  
 \- [Zertifikat](https://credentials.edx.org/credentials/05367abed4fb4be984a24ede62936b33/)  
@@ -77,12 +89,12 @@ _W3Cx_
 
 ---
 
-## September 2009 - Mai 2014
+### Sept. 2009 - Mai 2014
 
 _Hochschule für Technik und Architektur Luzern, Horw_  
 \- [www.hslu.ch/technik-architektur/](https://www.hslu.ch/de-ch/technik-architektur/)
 
-### Bachelor of Arts in Architecture
+## Bachelor of Arts in Architecture
 
 > Berufsbegleitend (Teilzeit)  
 \- [Diplom](./docs/Zeugnisse/BA_Architektur_Diplom.pdf)  
@@ -90,24 +102,24 @@ _Hochschule für Technik und Architektur Luzern, Horw_
 
 ---
 
-## Januar 2009 - März 2009
+### Jan. 2009 - März 2009
 
 _Microsoft learning_  
 \- [www.microsoft.com/learning/](https://www.microsoft.com/de-ch/learning/)
 
-### MCTS .NET 2.0 Windows Applications
+## MCTS .NET 2.0 Windows Applications
 
 > Berufsbegleitend (Selbststudium)  
 \- [Zertifikat](./docs/Zertifikate/MCTS.pdf)  
 
 ---
 
-## September 1999 - August 2002
+### Sept. 1999 - Aug. 2002
 
 _Hochschule für Wirtschaft, Luzern_  
 \- [www.hslu.ch/wirtschaft/](https://www.hslu.ch/de-ch/wirtschaft/)
 
-### Dipl. Wirtschaftsinformatiker FH
+## Dipl. Wirtschaftsinformatiker FH
 
 > Vollzeit  
 \- [Diplom](./docs/Zeugnisse/BSc_Wirtschaftsinformatik_Diplom.pdf)  
@@ -115,24 +127,24 @@ _Hochschule für Wirtschaft, Luzern_
 
 ---
 
-## Oktober 1997 - Mai 1998
+### Okt. 1997 - Mai 1998
 
 _Hochschule für Technik und Wirtschaft, Chur_  
 \- [www.htwchur.ch](http://www.htwchur.ch/)
 
-### Technische Berufsmaturität
+## Technische Berufsmaturität
 
 > Vollzeit  
 \- [Diplom / Zeugnisse](./docs/Zeugnisse/BM_Noten.pdf)
 
 ---
 
-## August 1993 - Juli 1997
+### Aug. 1993 - Jul. 1997
 
 _Erich Wolf, Dipl. Arch ETH/SIA, Lenzerheide_  
 \- [www.w4arch.ch](http://www.w4arch.ch/)
 
-### Eidg. Dipl. Hochbauzeichner
+## Eidg. Dipl. Hochbauzeichner
 
 > Berufslehre  
 \- [Diplom](./docs/Zeugnisse/HBZ_Diplom.pdf)  
