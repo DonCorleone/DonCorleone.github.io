@@ -4,19 +4,39 @@
 
 <div class="page"/>
 
+## Feb. 2024 - Heute
+
+> _Suva, Luzern_  
+\- [_www.suva.ch_](https://www.suva.ch)
+
+### Praxisbildner Applikationsentwickler
+
+> Praxisbildner eines Lernenden der Fachrichting 'Applikationsentwicklung'.  
+\- [_ict-berufsbildung.ch_](https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/informatiker-in-efz)
+## Jan. 2024 - Heute
+
+> _Suva, Luzern_  
+\- [_www.suva.ch_](https://www.suva.ch)
+
+### Product Owner Designsystem
+
+> PO virtuelles Team, Community of Practice 'CoP+'  
+\- Markenauftritt mit Designsystem: [marke.suva.ch](https://marke.suva.ch)  
+\- SuvaUX - Angular Frontend Library für alle Online Services Projekte suva.ch
+
 ## Jun. 2019 - Heute
 
 > _Suva, Luzern_  
 \- [_www.suva.ch_](https://www.suva.ch)
 
-### ASP.NET MVC / Sitecore Developer
+### Fullstack Developer .NET / Angular / Sitecore
 
 > Scrum Dev-Team Member 'hyperlink' (suva.ch)  
 \- [Onlineauftritt Suva](https://www.suva.ch)
 
 | Frontend                  | Backend                                                 | Database         |
 |---------------------------|---------------------------------------------------------|------------------|
-| Angular 7+, Nitronet Rendering (Terrific JS, Handlebars) | Sitecore WCMS (ASP.NET MVC) | MS SQL Server |
+| Angular 18 | Sitecore WCMS (ASP.NET MVC) Headless | MS SQL Server |
 
 &nbsp;
 
