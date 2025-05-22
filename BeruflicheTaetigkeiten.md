@@ -12,7 +12,7 @@
 ## Praxisbildner Applikationsentwickler
 
 > Praxisbildner eines Lernenden der Fachrichting 'Applikationsentwicklung'.  
-\- [_ict-berufsbildung.ch_](https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/informatiker-in-efz)
+\- [_ict-berufsbildung.ch_](https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/informatiker-in-efz){:target="_blank"}
 
 ### Jan. 2024 - Heute
 
@@ -22,18 +22,18 @@
 ## Product Owner Designsystem
 
 > PO virtuelles Team, Community of Practice 'CoP+'  
-\- Markenauftritt mit Designsystem: [marke.suva.ch](https://marke.suva.ch)  
+\- Markenauftritt mit Designsystem: [marke.suva.ch](https://marke.suva.ch){:target="_blank"}  
 \- SuvaUX - Angular Frontend Library für alle Online Services Projekte suva.ch
 
 ### Jun. 2019 - Heute
 
 > _Suva, Luzern_  
-\- [_www.suva.ch_](https://www.suva.ch)
+\- [_www.suva.ch_](https://www.suva.ch){:target="_blank"}
 
 ## Fullstack Developer .NET / Angular / Sitecore
 
 > Scrum Dev-Team Member 'hyperlink' (suva.ch)  
-\- [Onlineauftritt Suva](https://www.suva.ch)
+\- [Onlineauftritt Suva](https://www.suva.ch){:target="_blank"}
 
 | Frontend                  | Backend                                                 | Database         |
 |---------------------------|---------------------------------------------------------|------------------|
@@ -44,12 +44,12 @@
 ### Nov. 2016 - Mai 2019
 
 > _W&W Immo Informatik AG, Affoltern am Albis_  
-\- [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
+\- [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html){:target="_blank"}
 
 ## Fullstack- Applikationsentwickler
 
 > Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
-\- [Produktseite "ImmoTop II"](https://www.wwimmo.ch/produkte/immotop2/)
+\- [Produktseite "ImmoTop II"](https://www.wwimmo.ch/produkte/immotop2/){:target="_blank"}
 
 | Frontend                  | Backend                                                 | Database         |
 |---------------------------|---------------------------------------------------------|------------------|
@@ -60,7 +60,7 @@
 ### Nov. 2011 - Okt. 2016
 
 > _Bambus Software GmbH, Kriens_  
-\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
+\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}  
 <!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf) -->
 
 ## Backend- Applikationsentwickler
@@ -85,13 +85,13 @@
 ### Dez. 2010 - Okt. 2011
 
 > _Sientia AG, Dübendorf_  
-\- [_www.scayla.com_](http://www.scayla.com)  
+\- [_www.scayla.com_](http://www.scayla.com){:target="_blank"}  
 <!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf) -->
 
 ## Fullstack- Applikationsentwickler Web Client
 
 > Neuentwicklung Online- ERP / CRM „Inquisiv“  
-\- [Produktseite "Inquisiv"](https://office.inquisiv.ch)
+\- [Produktseite "Inquisiv"](https://office.inquisiv.ch){:target="_blank"}
 
 | Frontend           | Backend                                  | Database |
 |--------------------|------------------------------------------|----------|
@@ -100,7 +100,7 @@
 ## Entwickler Fat Client
 
 > Neuentwicklung ERP / CRM „Inquisiv“  
-\- [Produktseite "Inquisv"](https://office.inquisiv.ch)
+\- [Produktseite "Inquisv"](https://office.inquisiv.ch){:target="_blank"}
 
 | Frontend   | Backend                            | Database            |
 |------------|------------------------------------|---------------------|
@@ -111,15 +111,15 @@
 ### Nov. 2005 - Nov. 2010
 
 > _BBT Software AG, Root_  
-\- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/)  
+\- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/){:target="_blank"}  
 <!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf) -->
 
 ## Full Stack- Applikationsentwickler / Prozessbereichs- Verantwortlicher
 
 > Neuentwicklung Branchensoftware für Krankenkassen „BBT Individual"
 und Unfallversicherungen "BBT Enterprises"  
-\- [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html)  
-\- [Produktseite "BBT Enterprise"](http://www.bbtsoftware.ch/unfall-versicherung.html)
+\- [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html){:target="_blank"}  
+\- [Produktseite "BBT Enterprise"](http://www.bbtsoftware.ch/unfall-versicherung.html){:target="_blank"}
 
 | Frontend      | Backend                                        | Database   |
 |---------------|------------------------------------------------|------------|
@@ -130,7 +130,7 @@ und Unfallversicherungen "BBT Enterprises"
 ### Sept. 2002 - Okt. 2005
 
 > _Bambus Software GmbH, Ebikon_  
-\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
+\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}  
 <!-- \- [Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf) -->
 
 ## Fullstack- Applikationsentwickler (Architektur & Programmierung)
@@ -144,7 +144,7 @@ und Unfallversicherungen "BBT Enterprises"
 ## Backend- Applikationsentwickler
 
 > Neuentwicklung Online Prämienrechner "CarePlus Web" für Krankenkassen  
-\- [Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx)
+\- [Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx){:target="_blank"}
 
 | Frontend | Backend                                              | Database   |
 |----------|------------------------------------------------------|------------|
@@ -171,12 +171,12 @@ und Unfallversicherungen "BBT Enterprises"
 ### Mai 2002 - Jul. 2002
 
 > _IDC AG, Sarnen (Ehemals Luzern)_  
-\- [_www.idc.ch_](http://www.idc.ch/)
+\- [_www.idc.ch_](http://www.idc.ch/){:target="_blank"}
 
 ## Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
 
 > Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.  
-\- [Produktseite "AC-Academy"](http://www.ac-academy.ch/)
+\- [Produktseite "AC-Academy"](http://www.ac-academy.ch/){:target="_blank"}
 
 | Frontend      | Backend | Database      |
 |---------------|---------|---------------|
