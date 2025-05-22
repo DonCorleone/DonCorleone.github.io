@@ -117,7 +117,7 @@ _Microsoft learning_
 ### Sept. 1999 - Aug. 2002
 
 _Hochschule für Wirtschaft, Luzern_  
-\- [www.hslu.ch/wirtschaft/](https://www.hslu.ch/de-ch/wirtschaft/)
+\- [www.hslu.ch/wirtschaft/](https://www.hslu.ch/de-ch/wirtschaft/){:target="_blank"}
 
 ## Dipl. Wirtschaftsinformatiker FH
 

@@ -3,14 +3,14 @@
 
 Inhalt
 
-### [Persönliche Angaben](./PersoenlicheAngaben.md)
+## [Persönliche Angaben](./PersoenlicheAngaben.md)
 
-### [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
+## [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
 
-### [Ausbildung](Ausbildung.md)
+## [Ausbildung](Ausbildung.md)
 
-### [Kenntnisse](./Kenntnisse.md)
+## [Kenntnisse](./Kenntnisse.md)
 
-### [Architektur](Architektur.md)
+## [Architektur](Architektur.md)
 
-### [Pet Projects](PetProject.md)
+## [Pet Projects](PetProject.md)
