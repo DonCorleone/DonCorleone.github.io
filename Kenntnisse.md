@@ -5,7 +5,7 @@
 <div class="page"/>
 
 
-## Webtechnologien Professionell
+### Webtechnologien Professionell
 
 | Anwendungsgebiet | Technologie   |
 |-------------------|--------------------------|
@@ -13,7 +13,7 @@
 | CSS Frameworks | SCSS, Bootstrap, Tailwind, Angular Material |
 | Javascript Frameworks | Typescript, Angular |
 
-## DevOps
+### DevOps
 
 | Anwendungsgebiet | Technologie   |
 |-------------------|--------------------------|
@@ -24,14 +24,14 @@
 | Source Code Management | Git, GitHub, Bitbucket |
 
 
-## Betriebssysteme
+### Betriebssysteme
 
 | Administrieren    | Anwenden                 |
 |-------------------|--------------------------|
 | Microsoft Windows | Linux / BSD-Unix (macOS) |
 | macOS             |                          |
 
-## Programmiersprachen
+### Programmiersprachen
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse  |
 |----------------------|-----------------|---------------------|
@@ -40,7 +40,7 @@
 | JavaScript           | Java            |                     |
 |                      | Powershell             |                     |
 
-## Frontend- Frameworks
+### Frontend- Frameworks
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
@@ -49,14 +49,14 @@
 | Angular                     |                 | Flex (Adobe Flash) |
 |                      |                 | GWT (Java)         |
 
-## Backend- Frameworks
+### Backend- Frameworks
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
 | .NET Framework                | .NET Core MVC   | Rails              |
 | .NET (Core)            | Python                | Hibernate (Java)   |
 
-## DB-Systeme
+### DB-Systeme
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
@@ -65,14 +65,14 @@
 | Microsoft Access     | SQLite          |                    |
 | MongoDB (NoSQL)      |         Redis        |                    |
 
-## CAD / Layout / Publishing
+### CAD / Layout / Publishing
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
 | Adobe InDesign       | Adobe Photoshop | Adobe Illustrator  |
 | ArchiCAD             |                 |                    |
 
-## Sprachen
+### Sprachen
 
 | Sehr gute Kenntnisse    | Gute Kenntnisse                 | Mässige Kenntnisse     |
 |-------------------------|---------------------------------|------------------------|
