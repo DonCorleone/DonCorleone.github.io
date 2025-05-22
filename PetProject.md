@@ -7,7 +7,7 @@
 ### Feb. 2024 - Heute
 
 > _Entwicklung (Desing eingekauft bei [hibootstrap](https://hibootstrap.com/))_   
-\- [https://streetsurfclub.ch/](https://laundry-calendar.netlify.app){:target="_blank"}
+\- [streetsurfclub.ch](https://streetsurfclub.ch){:target="_blank"}
 
 ## Vereinswebsite StreetSurfClub Luzern
 > Bereitstellen eines zeitgenössischen Headless Frontends mit Darkmode und 'Mobile First' - Ansatz für [Google Blogger](https://www.blogger.com/) 
@@ -16,6 +16,18 @@
 |-------|-----------|
 |Frontend| Angular 19, Tailwind CSS - hosted auf [Netlify](https://www.netlify.com/) |
 |Backend | [Google Blogger](https://www.blogger.com/)|
+
+### Jun. 2023 - Heute
+
+> _Entwicklung_   
+
+## Campagn Mailer
+> Massenmail- Versand für Newsletter- Subscriber via CSV Import in Python
+
+|Einsatz|Technologie|
+|-------|-----------|
+|Scripting| Python |
+|Backend | Mail / SMS Provider [Postmark](https://postmarkapp.com)|
 
 ### Jul. 2022 - Heute
 
@@ -32,11 +44,67 @@
 |Backend | .Net Core mit Signal R - hosted via Docker auf [Render](https://render.com/)|
 |DB | Redis - hosted auf [Render](https://render.com/)|
 
+### Okt. 2020 - Heute
+
+> _Design & Entwicklung_    
+\- [up.schlosswochen.ch](https://up.schlosswochen.ch/){:target="_blank"}
+
+## Anmeldeportal Ferienangebot "Schlosswochen"
+> Anmeldeportal im Darkmode mit Emailbestätigung
+
+|Einsatz|Technologie|
+|-------|-----------|
+|Frontend| Angular 19, Bootstrap - hosted auf [Netlify](https://www.netlify.com/) |
+|Backend | Serverless Functions - hosted auf [Netlify](https://www.netlify.com/) |
+|DB | MongoDB - hosted auf MongoDB Atlas [mongodb](https://www.mongodb.com)|
+|Mail / SMS Provider | [Postmark](https://postmarkapp.com)|
+
+
+### Okt. 2019 - Heute
+
+> _Design & Entwicklung_    
+\- [schlosswochen.ch](https://www.schlosswochen.ch/){:target="_blank"}
+
+## Website Ferienangebot "Schlosswochen"
+> Website mit Newsletter- Sammlung
+
+|Einsatz|Technologie|
+|-------|-----------|
+|Frontend| Angular 19, Tailwind CSS, Angular Material - hosted auf [Netlify](https://www.netlify.com/) |
+|Backend | Markdown- Files - hosted auf [Github](https://github.com) |
+|DB | MongoDB - hosted auf MongoDB Atlas [mongodb](https://www.mongodb.com)|
 
 
 
+### Okt. 2019 - Heute
 
+> _Entwicklung (Design gekauft bei [3rdwavemedia](https://themes.3rdwavemedia.com))_   
+\- [petruschka.ch](https://www.petruschka.ch/){:target="_blank"}
 
+## Website Figurentheater 'Petruschka' Luzern
+> Website mit Backendanbindung und externem Ticketing
+
+|Einsatz|Technologie|
+|-------|-----------|
+|Frontend| Angular 19, Bootstrap 5 - hosted auf [Netlify](https://www.netlify.com/) |
+|Backend | Serverless Functions - hosted auf [Netlify](https://www.netlify.com/) |
+|DB | MongoDB - hosted auf MongoDB Atlas [mongodb](https://www.mongodb.com)|
+|Ticketing| Eventfrog, Datenabzug via .NET Core WebAPI nach MongoDB und Naturmuseum Luzern, Datenabzug via Python Script nach MongoDB |
+
+### Okt. 2019 - Heute
+
+> _Entwicklung (Design gekauft bei [3rdwavemedia](https://themes.3rdwavemedia.com))_   
+\- [petruschka.ch](https://www.petruschka.ch/){:target="_blank"}
+
+## Website Figurentheater 'Petruschka' Luzern
+> Website mit Backendanbindung und externem Ticketing
+
+|Einsatz|Technologie|
+|-------|-----------|
+|Frontend| Angular 19, Bootstrap 5 - hosted auf [Netlify](https://www.netlify.com/) |
+|Backend | Serverless Functions - hosted auf [Netlify](https://www.netlify.com/) |
+|DB | MongoDB - hosted auf MongoDB Atlas [mongodb](https://www.mongodb.com)|
+|Ticketing| Eventfrog, Datenabzug via .NET Core WebAPI nach MongoDB und Naturmuseum Luzern, Datenabzug via Python Script nach MongoDB |
 
 
 
