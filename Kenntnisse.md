@@ -4,14 +4,18 @@
 
 <div class="page"/>
 
+## Content Management Systems (CMS) | Document Asset Management Systems (DAM)
+
+| Zertifikat | Institution | Abschlussjahr |
+| -----------|-------------|---------------|
+| Sitecore Content Hub Developer Certification | Sitecore | 2023 |
+| Sitecore® Experience Solution Developer Fundamentals Certification Exam 9 | Sitecore | 2019 |
+
 ## Webtechnologien
 
-| Zertifiziert      | Zur Zeit im Selbsstudium | Austehend                      |
+| Zertifikat      | Institution | Abschlussjahr                      |
 |-------------------|--------------------------|--------------------------------|
-| HTML (W3Cx)       | TypeScript (Microsoft)   | Angular oder React (Microsoft) |
-| CSS (W3Cx)        | CSS Advanced (Microsoft) | Azure (Microsoft)              |
-| JavaScript (W3Cx) | Bootstrap (Microsoft)    | DevOps (Microsoft)             |
-| jQuery (Microsoft)|                          |                                |
+| Front-End Web Development | Microsoft Professional Program | 2018   
 
 ## Betriebssysteme
 

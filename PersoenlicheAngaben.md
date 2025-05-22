@@ -10,7 +10,7 @@ Geburtsdatum:
 > 06.09.1977 (In Zürich)
 
 Heimatort:
-> Valendas (GR)
+> Safiental (GR)
 
 Zivilstand:
 > Verheiratet mit Natalie Wieland- Hofer
@@ -26,7 +26,7 @@ Wohnsitz:
 > 6004 Luzern
 
 eMail:
-> [vitocorleone77@gmail.com](mailto:vitocorleone77@gmail.com)
+> [linus@wieland.lu](mailto:linus@wieland.lu)
 
 ## Interessen
 
@@ -40,11 +40,12 @@ eMail:
 
 ## Sport
 
+* Snowboard-Touren
 * Snowboarden
-* Pumptrack-Skateboarden
-* Downhill-Skateboarden
-* Wakeboarden
+* Alpine Wanderungen
+* Klettersteige
 * Bouldern
+* Pumptrack-Skateboarden
 
 <div class="page"/>
 
