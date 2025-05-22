@@ -7,7 +7,7 @@
 ### Dez. 2024
 
 _Scrum.org_
-\- [scrum.org](https://www.scrum.org/)
+\- [scrum.org](https://www.scrum.org/){:target="_blank"}
 
 ## Professional Scrum Product Owner™ I (PSPO I)
 
@@ -92,7 +92,7 @@ _W3Cx_
 ### Sept. 2009 - Mai 2014
 
 _Hochschule für Technik und Architektur Luzern, Horw_  
-\- [www.hslu.ch/technik-architektur/](https://www.hslu.ch/de-ch/technik-architektur/)
+\- [www.hslu.ch/technik-architektur/](https://www.hslu.ch/de-ch/technik-architektur/){:target="_blank"}
 
 ## Bachelor of Arts in Architecture
 
