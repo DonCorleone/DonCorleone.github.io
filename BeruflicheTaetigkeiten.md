@@ -14,6 +14,8 @@
 > Praxisbildner eines Lernenden der Fachrichting 'Applikationsentwicklung'.  
 \- [_ict-berufsbildung.ch_](https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/informatiker-in-efz){:target="_blank"}
 
+---
+
 ### Jan. 2024 - Heute
 
 > _Suva, Luzern_  
@@ -24,6 +26,8 @@
 > PO virtuelles Team, Community of Practice 'CoP+'  
 \- Markenauftritt mit Designsystem: [marke.suva.ch](https://marke.suva.ch){:target="_blank"}  
 \- SuvaUX - Angular Frontend Library für alle Online Services Projekte suva.ch
+
+---
 
 ### Jun. 2019 - Heute
 
