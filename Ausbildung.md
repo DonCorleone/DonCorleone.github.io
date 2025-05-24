@@ -132,14 +132,13 @@ _Hochschule für Technik und Wirtschaft, Chur_
 ## Technische Berufsmaturität
 
 > Vollzeit  
-\- [Diplom](./docs/Zeugnisse/BM_Noten.pdf)
 
 ---
 
 ###### Aug. 1993 - Jul. 1997
 
 _Erich Wolf, Dipl. Arch ETH/SIA, Lenzerheide_  
-\- [www.w4arch.ch](http://www.w4arch.ch/){:target="_blank"}
+\- [www.wa3.ch](https://www.wa3.ch/){:target="_blank"}
 
 ## Eidg. Dipl. Hochbauzeichner
 
