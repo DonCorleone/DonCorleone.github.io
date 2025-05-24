@@ -64,8 +64,7 @@
 ###### Nov. 2011 - Okt. 2016
 
 > _Bambus Software GmbH, Kriens_  
-\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}  
-<!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf) -->
+\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}
 
 ## Backend- Applikationsentwickler
 
@@ -89,8 +88,7 @@
 ###### Dez. 2010 - Okt. 2011
 
 > _Sientia AG, Dübendorf_  
-\- [_www.scayla.com_](http://www.scayla.com){:target="_blank"}  
-<!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf) -->
+\- [_www.scayla.com_](http://www.scayla.com){:target="_blank"}
 
 ## Fullstack- Applikationsentwickler Web Client
 
@@ -115,8 +113,7 @@
 ###### Nov. 2005 - Nov. 2010
 
 > _BBT Software AG, Root_  
-\- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/){:target="_blank"}  
-<!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf) -->
+\- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/){:target="_blank"}
 
 ## Full Stack- Applikationsentwickler / Prozessbereichs- Verantwortlicher
 
@@ -134,8 +131,7 @@ und Unfallversicherungen "BBT Enterprises"
 ###### Sept. 2002 - Okt. 2005
 
 > _Bambus Software GmbH, Ebikon_  
-\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}  
-<!-- \- [Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf) -->
+\- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home){:target="_blank"}
 
 ## Fullstack- Applikationsentwickler (Architektur & Programmierung)
 

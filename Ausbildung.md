@@ -84,8 +84,7 @@ _W3Cx_
 ## Front-End Web Developer
 
 > Berufsbegleitend (Selbststudium)  
-\- [Zertifikat](https://credentials.edx.org/credentials/05367abed4fb4be984a24ede62936b33/){:target="_blank"}  
-\- [Zeugnisse](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361){:target="_blank"}  
+\- [Zertifikat](https://credentials.edx.org/credentials/05367abed4fb4be984a24ede62936b33/){:target="_blank"}
 
 ---
 
@@ -97,8 +96,7 @@ _Hochschule für Technik und Architektur Luzern, Horw_
 ## Bachelor of Arts in Architecture
 
 > Berufsbegleitend (Teilzeit)  
-\- [Diplom](./docs/Zeugnisse/BA_Architektur_Diplom.pdf)  
-\- [Zeugnisse](./docs/Zeugnisse/BA_Architektur_Noten.pdf)
+\- [Diplom](./docs/Zeugnisse/BA_Architektur_Diplom.pdf)
 
 ---
 
@@ -122,8 +120,7 @@ _Hochschule für Wirtschaft, Luzern_
 ## Dipl. Wirtschaftsinformatiker FH
 
 > Vollzeit  
-\- [Diplom](./docs/Zeugnisse/BSc_Wirtschaftsinformatik_Diplom.pdf)  
-\- [Zeugnisse](./docs/Zeugnisse/BSc_Wirtschaftsinformatik_Noten.pdf)
+\- [Diplom](./docs/Zeugnisse/BSc_Wirtschaftsinformatik_Diplom.pdf)
 
 ---
 
@@ -135,7 +132,7 @@ _Hochschule für Technik und Wirtschaft, Chur_
 ## Technische Berufsmaturität
 
 > Vollzeit  
-\- [Diplom / Zeugnisse](./docs/Zeugnisse/BM_Noten.pdf)
+\- [Diplom](./docs/Zeugnisse/BM_Noten.pdf)
 
 ---
 
@@ -147,8 +144,7 @@ _Erich Wolf, Dipl. Arch ETH/SIA, Lenzerheide_
 ## Eidg. Dipl. Hochbauzeichner
 
 > Berufslehre  
-\- [Diplom](./docs/Zeugnisse/HBZ_Diplom.pdf)  
-\- [Zeugnisse](./docs/Zeugnisse/HBZ_Noten.pdf)
+\- [Diplom](./docs/Zeugnisse/HBZ_Diplom.pdf)
 
 <div class="page"/>
 
